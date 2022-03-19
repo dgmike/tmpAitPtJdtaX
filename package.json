@@ -1,0 +1,16 @@
+{
+  "name": "tmp.aitptjdtax",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Castillo Granados <michaelgranados@gmail.com> (https://dgmike.com.br/)",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
