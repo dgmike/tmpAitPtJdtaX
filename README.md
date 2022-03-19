@@ -22,7 +22,7 @@ npm ci
 Just start server as any nodejs project.
 
 ```sh
-npm Start
+npm start
 ```
 
 ## Test
