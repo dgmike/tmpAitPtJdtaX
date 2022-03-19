@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -12,6 +13,11 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^9.2.2",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-routes": "^7.4.0"
   }
 }
