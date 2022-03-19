@@ -5,12 +5,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "Michael Castillo Granados <michaelgranados@gmail.com> (https://dgmike.com.br/)",
   "license": "ISC",
   "devDependencies": {
+    "mocha": "^9.2.2",
     "semantic-release": "^19.0.2"
   }
 }
